@@ -1,5 +1,7 @@
 # 考虑所有数字顺序，计算顺序，符号种类
 # 懒得剪枝了
+# 递归做法会更好写一点
+# 啊啊啊看了别人的递归，后悔迭代了
 
 from itertools import permutations, combinations, product
 functions = [
